@@ -1709,6 +1709,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21.png"
     },
     {
+      "name": "Mole Token",
+      "symbol": "MOLE",
+      "address": "0x33831Bee1CE63c95dAb6Cf23F83fF0B6A29a2837",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/images/tokens/0x33831Bee1CE63c95dAb6Cf23F83fF0B6A29a2837.png"
+    },
+    {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
