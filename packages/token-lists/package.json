@@ -19,7 +19,7 @@
     "checksum:pcs-top-15": "yarn build && node ./dist checksum pancakeswap-top-15",
     "generate:pcs-top-15": "yarn test && yarn build && node ./dist generate pancakeswap-top-15",
     "makelist:pcs-top-15": "yarn checksum:pcs-top-15 && yarn generate:pcs-top-15",
-    "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
+    "lint": "eslint 'src/**/*.{js,jsx,ts}'",
     "fetch:pcs-top-100": "yarn build && node ./dist fetch",
     "test": "jest",
     "ci-check": "yarn build && node ./dist ci-check"
