@@ -2228,7 +2228,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c52 c53"
                     color="#F4EEFF"
-                    href="https://moletech.io/#section13/telegram"
+                    href="https://t.me/molewallet"
                     rel="noreferrer noopener"
                     target="_black"
                   >
@@ -2241,7 +2241,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c52 c53"
                     color="#F4EEFF"
-                    href="https://moletech.io//tokenomics/cake"
+                    href="https://moletech.io#section7"
                     rel="noreferrer noopener"
                     target="_black"
                   >

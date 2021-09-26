@@ -655,7 +655,7 @@ it("renders ConnectModal correctly", () => {
             </p>
             <a
               class="c22"
-              href="https://moletech.io//get-started/connection-guide"
+              href="https://moletech.io"
               rel="noreferrer noopener"
               scale="md"
               target="_blank"

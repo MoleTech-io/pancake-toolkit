@@ -80,7 +80,7 @@ const ConnectModal: React.FC<Props> = ({ login, onDismiss = () => null, displayC
           </Text>
           <Button
             as="a"
-            href="https://moletech.io//get-started/connection-guide"
+            href="https://moletech.io"
             variant="subtle"
             width="100%"
             {...getExternalLinkProps()}
