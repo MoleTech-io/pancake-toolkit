@@ -385,7 +385,7 @@ exports[`renders correctly 1`] = `
 }
 
 .c59 {
-  color: #1FC7D4;
+  color: #F0B90B;
   font-size: 16px;
   font-weight: 600;
   line-height: 1.5;
@@ -393,7 +393,7 @@ exports[`renders correctly 1`] = `
 }
 
 .c63 {
-  color: #1FC7D4;
+  color: #F0B90B;
   font-size: 16px;
   font-weight: 600;
   line-height: 1.5;
@@ -718,7 +718,7 @@ exports[`renders correctly 1`] = `
   font-size: 12px;
   padding: 0 8px;
   background-color: transparent;
-  color: #1FC7D4;
+  color: #F0B90B;
   box-shadow: none;
 }
 
@@ -775,7 +775,7 @@ exports[`renders correctly 1`] = `
   height: 48px;
   padding: 0 24px;
   background-color: transparent;
-  color: #1FC7D4;
+  color: #F0B90B;
   box-shadow: none;
   width: sm;
   height: sm;
@@ -834,7 +834,7 @@ exports[`renders correctly 1`] = `
   height: 48px;
   padding: 0 24px;
   background-color: transparent;
-  color: #1FC7D4;
+  color: #F0B90B;
   box-shadow: none;
 }
 
@@ -890,7 +890,7 @@ exports[`renders correctly 1`] = `
   transition: background-color 0.2s,opacity 0.2s;
   height: 32px;
   padding: 0 16px;
-  background-color: #1FC7D4;
+  background-color: #F0B90B;
   color: white;
 }
 
@@ -2202,7 +2202,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c52 c53"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/contact-us"
+                    href="https://moletech.io/#section13"
                     rel="noreferrer noopener"
                     target="_black"
                   >
@@ -2228,7 +2228,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c52 c53"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/contact-us/telegram"
+                    href="https://moletech.io/#section13/telegram"
                     rel="noreferrer noopener"
                     target="_black"
                   >
@@ -2241,7 +2241,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c52 c53"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/tokenomics/cake"
+                    href="https://moletech.io//tokenomics/cake"
                     rel="noreferrer noopener"
                     target="_black"
                   >
@@ -2288,7 +2288,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c52 c53"
                     color="#F4EEFF"
-                    href="Support https://docs.pancakeswap.finance/contact-us/customer-support"
+                    href="Support https://moletech.io/#section13/customer-support"
                     rel="noreferrer noopener"
                     target="_black"
                   >
@@ -2301,7 +2301,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c52 c53"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/help/troubleshooting"
+                    href="https://moletech.io/"
                     rel="noreferrer noopener"
                     target="_black"
                   >
@@ -2314,7 +2314,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c52 c53"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/get-started"
+                    href="https://moletech.io//get-started"
                     rel="noreferrer noopener"
                     target="_black"
                   >
@@ -2336,7 +2336,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c52 c53"
                     color="#F4EEFF"
-                    href="https://github.com/pancakeswap"
+                    href="https://github.com/MoleTech-io"
                     rel="noreferrer noopener"
                     target="_black"
                   >
@@ -2349,7 +2349,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c52 c53"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance"
+                    href="https://moletech.io/"
                     rel="noreferrer noopener"
                     target="_black"
                   >
@@ -2375,7 +2375,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c52 c53"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited"
+                    href="https://moletech.io//help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited"
                     rel="noreferrer noopener"
                     target="_black"
                   >
@@ -2388,7 +2388,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c52 c53"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/hiring/become-a-chef"
+                    href="https://moletech.io"
                     rel="noreferrer noopener"
                     target="_black"
                   >
@@ -2711,7 +2711,7 @@ exports[`renders correctly 1`] = `
                 aria-label="Github"
                 class="c63 c53"
                 color="primary"
-                href="https://github.com/pancakeswap/"
+                href="https://github.com/MoleTech-io/"
                 rel="noreferrer noopener"
                 target="_blank"
               >
