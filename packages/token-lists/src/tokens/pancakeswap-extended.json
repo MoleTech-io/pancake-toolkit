@@ -1886,5 +1886,61 @@
     "chainId": 56,
     "decimals": 10,
     "logoURI": "https://swap.moletech.io/images/tokens/0x33Fea48c8e842a14c62dF14C83c79E43Dd6386fF.png"
+  },
+  {
+    "name": "Lightning",
+    "symbol": "LIGHT",
+    "address": "0x037838b556d9c9d654148a284682C55bB5f56eF4",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x037838b556d9c9d654148a284682C55bB5f56eF4.png"
+  },
+  {
+    "name": "CryptoArt.ai",
+    "symbol": "CART",
+    "address": "0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e.png"
+  },
+  {
+    "name": "Beta Finance",
+    "symbol": "BETA",
+    "address": "0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28.png"
+  },
+  {
+    "name": "Rangers Protocol",
+    "symbol": "RPG",
+    "address": "0xc2098a8938119A52B1F7661893c0153A6CB116d5",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xc2098a8938119A52B1F7661893c0153A6CB116d5.png"
+  },
+  {
+    "name": "MCDEX",
+    "symbol": "MCB",
+    "address": "0x5fE80d2CD054645b9419657d3d10d26391780A7B",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x5fE80d2CD054645b9419657d3d10d26391780A7B.png"
+  },
+  {
+    "name": "FC Lazio Fan Token",
+    "symbol": "LAZIO",
+    "address": "0x77d547256A2cD95F32F67aE0313E450Ac200648d",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x77d547256A2cD95F32F67aE0313E450Ac200648d.png"
+  },
+  {
+    "name": "ARIVA",
+    "symbol": "ARV",
+    "address": "0x6679eB24F59dFe111864AEc72B443d1Da666B360",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6679eB24F59dFe111864AEc72B443d1Da666B360.png"
   }
 ]
