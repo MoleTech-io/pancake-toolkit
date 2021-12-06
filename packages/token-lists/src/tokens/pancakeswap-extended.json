@@ -1760,14 +1760,6 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x3Fcca8648651E5b974DD6d3e50F61567779772A8.png"
   },
   {
-    "name": "GreenTrust",
-    "symbol": "GNT",
-    "address": "0xF750A26EB0aCf95556e8529E72eD530f3b60f348",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xF750A26EB0aCf95556e8529E72eD530f3b60f348.png"
-  },
-  {
     "name": "Seedify",
     "symbol": "SFUND",
     "address": "0x477bC8d23c634C154061869478bce96BE6045D12",
@@ -2014,5 +2006,45 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png"
+  },
+  {
+    "name": "Sheesha Finance",
+    "symbol": "SHEESHA",
+    "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x232FB065D9d24c34708eeDbF03724f2e95ABE768.png"
+  },
+  {
+    "name": "Bomb Crypto",
+    "symbol": "BCOIN",
+    "address": "0x00e1656e45f18ec6747F5a8496Fd39B50b38396D",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x00e1656e45f18ec6747F5a8496Fd39B50b38396D.png"
+  },
+  {
+    "name": "Quidd Token",
+    "symbol": "QUIDD",
+    "address": "0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed.png"
+  },
+  {
+    "name": "FC Santos Fan Token",
+    "symbol": "SANTOS",
+    "address": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7.png"
+  },
+  {
+    "name": "Nabox Token",
+    "symbol": "NABOX",
+    "address": "0x755f34709E369D37C6Fa52808aE84A32007d1155",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x755f34709E369D37C6Fa52808aE84A32007d1155.png"
   }
 ]

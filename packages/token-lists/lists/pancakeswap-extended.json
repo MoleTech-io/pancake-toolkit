@@ -1,10 +1,10 @@
 {
   "name": "PancakeSwap Extended",
-  "timestamp": "2021-11-18T09:53:47.484Z",
+  "timestamp": "2021-12-05T10:36:06.700Z",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 41
+    "patch": 47
   },
   "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
   "keywords": [
@@ -227,6 +227,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png"
+    },
+    {
+      "name": "Bomb Crypto",
+      "symbol": "BCOIN",
+      "address": "0x00e1656e45f18ec6747F5a8496Fd39B50b38396D",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x00e1656e45f18ec6747F5a8496Fd39B50b38396D.png"
     },
     {
       "name": "bDIGG",
@@ -789,14 +797,6 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x2090c8295769791ab7A3CF1CC6e0AA19F35e441A.png"
     },
     {
-      "name": "GreenTrust",
-      "symbol": "GNT",
-      "address": "0xF750A26EB0aCf95556e8529E72eD530f3b60f348",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xF750A26EB0aCf95556e8529E72eD530f3b60f348.png"
-    },
-    {
       "name": "Gourmet Galaxy",
       "symbol": "GUM",
       "address": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
@@ -1197,6 +1197,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x9F882567A62a5560d147d64871776EeA72Df41D3.png"
     },
     {
+      "name": "Nabox Token",
+      "symbol": "NABOX",
+      "address": "0x755f34709E369D37C6Fa52808aE84A32007d1155",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x755f34709E369D37C6Fa52808aE84A32007d1155.png"
+    },
+    {
       "name": "NAOS Finance",
       "symbol": "NAOS",
       "address": "0x758d08864fB6cCE3062667225ca10b8F00496cc2",
@@ -1445,6 +1453,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x07AaA29E63FFEB2EBf59B33eE61437E1a91A3bb2.png"
     },
     {
+      "name": "Quidd Token",
+      "symbol": "QUIDD",
+      "address": "0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed.png"
+    },
+    {
       "name": "QUSD Stablecoin",
       "symbol": "QUSD",
       "address": "0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E",
@@ -1541,6 +1557,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3.png"
     },
     {
+      "name": "FC Santos Fan Token",
+      "symbol": "SANTOS",
+      "address": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7.png"
+    },
+    {
       "name": "bDollar Share",
       "symbol": "sBDO",
       "address": "0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740",
@@ -1563,6 +1587,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x477bC8d23c634C154061869478bce96BE6045D12.png"
+    },
+    {
+      "name": "Sheesha Finance",
+      "symbol": "SHEESHA",
+      "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x232FB065D9d24c34708eeDbF03724f2e95ABE768.png"
     },
     {
       "name": "CryptoBlades Skill Token",
