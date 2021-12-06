@@ -8,6 +8,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
   },
   {
+    "name": "Mole Token",
+    "symbol": "MOLE",
+    "address": "0x33831Bee1CE63c95dAb6Cf23F83fF0B6A29a2837",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "http://localhost:3000/images/tokens/0x33831Bee1CE63c95dAb6Cf23F83fF0B6A29a2837.png"
+  },
+  {
     "name": "PancakeSwap Token",
     "symbol": "CAKE",
     "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
@@ -1862,6 +1870,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405.png"
+  },
+  {
+    "name": "TOO Token",
+    "symbol": "TOO",
+    "address": "0x33Fea48c8e842a14c62dF14C83c79E43Dd6386fF",
+    "chainId": 56,
+    "decimals": 10,
+    "logoURI": "https://swap.moletech.io/images/tokens/0x33Fea48c8e842a14c62dF14C83c79E43Dd6386fF.png"
   },
   {
     "name": "Lightning",
